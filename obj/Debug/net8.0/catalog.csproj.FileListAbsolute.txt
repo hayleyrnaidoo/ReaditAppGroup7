@@ -287,3 +287,4 @@ C:\catalog\obj\Debug\net8.0\refint\catalog.dll
 C:\catalog\obj\Debug\net8.0\catalog.pdb
 C:\catalog\obj\Debug\net8.0\catalog.genruntimeconfig.cache
 C:\catalog\obj\Debug\net8.0\ref\catalog.dll
+C:\catalog\obj\Debug\net8.0\catalog.sourcelink.json
